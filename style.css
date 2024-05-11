@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.searchbox{
+    display: flex;
+    background-color: navy;
+}
+.searchbox marquee{
+    color: white;
+    align-items: center;
+}
+#search{
+    display: flex;
+}
+.navweb{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navweb a{
+    text-decoration: none;
+    color: black;
+}
+.navclg{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navclg a{
+    text-decoration: none;
+    color: black;
+}
